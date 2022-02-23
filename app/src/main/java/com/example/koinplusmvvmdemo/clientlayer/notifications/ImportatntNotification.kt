@@ -1,0 +1,3 @@
+package com.example.koinplusmvvmdemo.clientlayer.notifications
+
+class ImportatntNotification
